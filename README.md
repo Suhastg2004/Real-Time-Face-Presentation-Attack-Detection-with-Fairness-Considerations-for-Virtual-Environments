@@ -13,4 +13,3 @@ This project implements a real-time face presentation attack detection system us
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Suhastg2004/Real-Time-Face-Presentation-Attack-Detection-with-Fairness-Considerations-for-Virtual-Environments
-   cd face-anti-spoofing
